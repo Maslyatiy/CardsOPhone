@@ -1,16 +1,11 @@
-# open_dart
+![image](https://github.com/Maslyatiy/CardsOPhone/assets/73582371/191f93bd-07b8-4bd8-8ae9-04d5bc092826)
 
-A new Flutter project.
+![image](https://github.com/Maslyatiy/CardsOPhone/assets/73582371/d8b362e2-6cd9-4792-b8d3-cf6b3ecfad0e)
 
-## Getting Started
+![image](https://github.com/Maslyatiy/CardsOPhone/assets/73582371/fbaf9b93-fb5d-4ec4-a4af-142752959a50)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![image](https://github.com/Maslyatiy/CardsOPhone/assets/73582371/2eb5a4da-df55-4a78-be8b-21c14f381b54)
